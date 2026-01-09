@@ -1,6 +1,7 @@
 # A hippocampal population code for rapid generalization
 
 **Pre-print, online https://www.biorxiv.org/content/10.1101/2025.03.15.643456v1**
+08/2024 – 01/2025
 
 ---
 
