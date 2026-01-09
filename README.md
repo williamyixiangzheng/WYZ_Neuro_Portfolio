@@ -23,7 +23,7 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 
 ## 📝 Research Proposals (stay tuned, more will be released)
 
-### 1. [Closed-coop prioritized hippocampal replay in brain-machine interface of value-biased choice](Proposal#1.md)
+### 1. [Closed-coop prioritized hippocampal replay in brain-machine interface of value-biased choice](Proposal_1.md)
 * **Topic:** Brain Machine Interfaces, hippocampal replay, and reinforcement learning
 * **Summary:** A closed-loop BMI experiment to investigate whether hippocampal sequences function as "prioritized experience replay" by selectively reinforcing high-value trajectories in real-time to accelerate learning in a probabilistic T-maze task.
 
