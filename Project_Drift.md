@@ -10,3 +10,6 @@ Understanding how the heterogeneous activity patterns of individual neurons give
 ## Photos to checkout
 <img width="1199" height="800" alt="Screenshot 2026-01-09 at 10 39 10 AM" src="https://github.com/user-attachments/assets/e456e566-131d-4615-8877-185ba4bdb1d8" />
 <img width="1047" height="788" alt="Screenshot 2026-01-09 at 10 41 39 AM" src="https://github.com/user-attachments/assets/eb890e02-8132-435e-89af-e4ba66cc0a23" />
+
+## Acknowledgement
+This project is lead by Dr. Tang, W. (a superwoman, post-doc researcher) and Hongyu Chang (a fantastic grad student), under Dr. Fernández-Ruiz, A. and Dr. Oliva, A. supervision.
