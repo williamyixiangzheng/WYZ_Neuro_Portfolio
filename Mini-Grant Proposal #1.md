@@ -15,4 +15,5 @@ Sharp-wave ripples (SWRs) and hippocampal neural sequences are crucial for spati
 ![IMG_7432](https://github.com/user-attachments/assets/917f54d3-2fdb-4894-9e2f-df383b08d5a4)
 
 ## Acknowledgement
-This mini-grant proposal is under Dr. Sun, W. supervision (a truely amazing professor who brought me into the field in NeuroAI).
+This mini-grant proposal is under Dr. Sun, W. supervision (a truely amazing professor who brought me into the field of NeuroAI and machine learning).
+And thanks for the inspiration of Dr. Lai, C. paper https://www.science.org/doi/full/10.1126/science.adh5206 
