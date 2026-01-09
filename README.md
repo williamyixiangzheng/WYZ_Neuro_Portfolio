@@ -30,6 +30,7 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 ---
 
 ### if you are interested, check out what I've done in high school about Huntington's disease using the CRISPR system
+[My First Impression of Neuroscience - Molecular Neuroscience](Research_In_Peking_University.md)
 
 ## 📬 Contact
 * **Email:** [ywz2@cornell.edu] or [ywilliamzheng@gmail.com]
