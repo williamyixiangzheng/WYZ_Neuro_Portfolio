@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi There 👋 
+# This is William, a guy actively exploring in computational and cognitive neuroscience and trying to combine with brain machine interfaces.
 
-<!--
-**williamyixiangzheng/williamyixiangzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my research portfolio. This repository not only hosts the research projects I'm engaging but also some naive ideas and proposals that will trun into reality some days. Or maybe just a repository that store my personal experiences in exploring human brain. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Research Projects
+
+### 1. [A hippocampal population code for rapid generalization](Project_Drift.md)
+* **Status:** Pre-print, online https://www.biorxiv.org/content/10.1101/2025.03.15.643456v1
+* **Summary:** We discovered CA1 population activity uses a disentangled code for location, time, and choice; CA3 and MEC inputs set spatial remapping, while local CA1 PV-interneuron drives representational drift. 
+
+### 2. [Hippocampus Constructs and Maintains Cognitive Maps of Social Territories](Project_Fieldwork.md)
+* **Status:** In Prep / Unpublished Manuscript 
+* **Summary:** We investigated hippocampal place cell activity in male mice living in a semi-natural outdoor enclosure (2000× larger than standard mazes).
+
+### 3. [Long-term, large-scale neural recordings across memory circuits with high-density flexible probes](Project_Fabrication.md)
+* **Status:** In Prep / Unpublished Manuscript 
+* **Summary:** We developed a polymer-based flexible thin-film probe to overcome the tissue–device mismatch observed with conventional rigid Si probes, enabling long-term single- neuron tracking.
+
+---
+
+## 📝 Research Proposals (stay tuned, more will be released)
+
+### 1. [Mini-Proposal: Future Research Directions](Mini-Grant Proposal #1.md)
+* **Topic:** Brain Machine Interfaces, hippocampal replay, and reinforcement learning
+* **Summary:** A closed-loop BMI experiment to investigate whether hippocampal sequences function as "prioritized experience replay" by selectively reinforcing high-value trajectories in real-time to accelerate learning in a probabilistic T-maze task.
+
+---
+
+## 📬 Contact
+* **Email:** [ywz2@cornell.edu] or [ywilliamzheng@gmail.com]
+
