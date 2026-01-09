@@ -6,7 +6,7 @@ Dr. Li, Chenjian (CJ) and Dr. Zheng, Sushuang (Sue) took me into the field of ne
 ---
 **What I've learned in molecular neuroscience?**
 
-During the time I spent in CJ's lab, I've learned so many molecular experiments:
+During the time I spent in CJ's lab, I've learned so many molecular experiments about AAV-CRISPR:
 1) Learned production process of adeno-associated viral, conducted intracranial injection of virus into mice’s striatum and M1 cortex, and mouse perfusion with sagittal mouse brain slice.
 2) Performed serial mouse behavioral tests, including open field, catwalk, grid strength, and rota-rod.
 3) Conducted basic molecular biology techniques, including PCR, qPCR, cell culture, SDS-PAGE, plasmid purification
@@ -26,4 +26,9 @@ under guidance of CJ, Sue, Dr. Dai, Yuanyi, Dr. Abudujielili, Zuliayeti, Dr. Hua
 <img width="744" height="783" alt="Screenshot 2026-01-09 at 11 42 04 AM" src="https://github.com/user-attachments/assets/271e7efc-e6b1-43cc-a6bf-ada674edc525" />
 
 (Fig. 3 First time get the brain out!)
+
+---
+
+Revelant paper: Dr. Dai, Y. work. 
+"Self-inactivating AAV-CRISPR at different ages enables sustained amelioration of Huntington’s disease deficits in BAC226Q mice." https://www.biorxiv.org/content/10.1101/2025.06.24.661435v1
 
