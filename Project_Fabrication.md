@@ -13,4 +13,4 @@ To address these challenges, we developed a high-density electrophysiological pr
 (sorry photos will be availble once the paper is published)
 
 ## Acknowledgement
-This project is lead by Jaehyo Park (an amazing grad student), under Dr.Oliva, A. and Dr.Fernández-Ruiz, A. supervision.
+This project is lead by Jaehyo Park (an amazing grad student), under Dr. Fernández-Ruiz, A. and Dr. Oliva, A. supervision.
