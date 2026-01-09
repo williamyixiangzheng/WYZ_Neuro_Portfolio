@@ -1,7 +1,7 @@
 # Hi There 👋 
-# This is William, a guy actively exploring in computational and cognitive neuroscience and trying to combine with brain machine interfaces.
+# This is William, a guy actively exploring computational and cognitive neuroscience and trying to combine it with brain-machine interfaces.
 
-Welcome to my research portfolio. This repository not only hosts the research projects I'm engaging but also some naive ideas and proposals that will trun into reality some days. Or maybe just a repository that store my personal experiences in exploring human brain. 
+Welcome to my research portfolio. This repository not only hosts the research projects I'm working on but also some naive ideas and proposals that will become reality someday. Or maybe just a repository for my personal experiences exploring the human brain. 
 
 ---
 
@@ -17,7 +17,7 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 
 ### 3. [Long-term, large-scale neural recordings across memory circuits with high-density flexible probes](Project_Fabrication.md)
 * **Status:** In Prep / Unpublished Manuscript 
-* **Summary:** We developed a polymer-based flexible thin-film probe to overcome the tissue–device mismatch observed with conventional rigid Si probes, enabling long-term single- neuron tracking.
+* **Summary:** We developed a polymer-based flexible thin-film probe to overcome the tissue–device mismatch observed with conventional rigid Si probes, enabling long-term single-neuron tracking.
 
 ---
 
@@ -28,6 +28,8 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 * **Summary:** A closed-loop BMI experiment to investigate whether hippocampal sequences function as "prioritized experience replay" by selectively reinforcing high-value trajectories in real-time to accelerate learning in a probabilistic T-maze task.
 
 ---
+
+### if you are interested, check out what I've done in high school about Huntington's disease using the CRISPR system
 
 ## 📬 Contact
 * **Email:** [ywz2@cornell.edu] or [ywilliamzheng@gmail.com]
