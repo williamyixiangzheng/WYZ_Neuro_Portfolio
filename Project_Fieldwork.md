@@ -13,3 +13,6 @@ We investigated how hippocampal activity patterns important for learning and mem
 <img width="753" height="252" alt="Screenshot 2026-01-09 at 10 31 33 AM" src="https://github.com/user-attachments/assets/fe470923-153d-4d0f-aeac-fd5a38fde4cd" />
 
 *(Figure 1. Left: field set-up, including 9 houses, 9 males, and 9 females, Right: Indoor reseources)*
+
+## Acknowledgement
+This project is lead by Praveen Paudel (an amazing grad student), under Dr. Oliva, A. and Dr. Fernández-Ruiz, A. supervision.
