@@ -13,7 +13,7 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 
 ### 2. [Hippocampus Constructs and Maintains Cognitive Maps of Social Territories](Project_Fieldwork.md)
 * **Status:** In Prep / Unpublished Manuscript 
-* **Summary:** We investigated hippocampal place cell activity in male mice living in a semi-natural outdoor enclosure (2000× larger than standard mazes).
+* **Summary:** We investigated the behavior of male mice living in a semi-natural outdoor enclosure (2000× larger than standard mazes) and studied hippocampal place cell activity while mice forming, defending, and intruding the territory. 
 
 ### 3. [Long-term, large-scale neural recordings across memory circuits with high-density flexible probes](Project_Fabrication.md)
 * **Status:** In Prep / Unpublished Manuscript 
