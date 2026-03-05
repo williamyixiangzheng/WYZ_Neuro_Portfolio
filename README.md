@@ -29,7 +29,7 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 
 ---
 
-### if you are interested, check out what I've done in high school about Huntington's disease using the CRISPR system
+### if you are interested, check out what I've done in Dr. Chenjian Li's lab at Peking University about Huntington's disease using the CRISPR system
 [My First Impression of Neuroscience - Molecular Neuroscience](Research_In_Peking_University.md)
 
 ## 📬 Contact
