@@ -27,6 +27,8 @@ Welcome to my research portfolio. This repository not only hosts the research pr
 * **Topic:** Brain Machine Interfaces, hippocampal replay, and reinforcement learning
 * **Summary:** A closed-loop BMI experiment to investigate whether hippocampal sequences function as "prioritized experience replay" by selectively reinforcing high-value trajectories in real-time to accelerate learning in a probabilistic T-maze task.
 
+### 2. [Circuit mechanisms of representational drift and neural manifold collapse in Alzheimer’s Disease](Proposal_2.md)
+* Working in progress
 ---
 
 ### if you are interested, check out what I've done in Dr. Chenjian Li's lab at Peking University about Huntington's disease using the CRISPR system
