@@ -1,5 +1,5 @@
 # Hi There 👋 
-# This is William, a guy actively exploring computational and cognitive neuroscience and trying to combine it with brain-machine interfaces.
+# This is William, a guy actively exploring computational neuroscience and neuroengineering, and trying to combine it with brain-machine interfaces.
 
 Welcome to my research portfolio. This repository not only hosts the research projects I'm working on but also some naive ideas and proposals that will become reality someday. Or maybe just a repository for my personal experiences exploring the human brain. 
 
