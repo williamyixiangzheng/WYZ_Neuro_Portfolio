@@ -3,6 +3,7 @@
 ***
 Usage: copy and paste in the terminal
 cd /Users/zyx/Desktop/WYZ_Neuro_Portfolio/website
+
 python3 -m http.server 8000
 
 and search for 
